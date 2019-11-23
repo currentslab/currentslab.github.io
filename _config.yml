@@ -56,8 +56,9 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Currents API
-  email: "ray@currentsapi.services"
-
+  email: "support@currentsapi.services"
+  twitter: "currentsapi"
+  github: "currentsapi"
 
 # Select which links to show in the footer
 footer-links-active:
