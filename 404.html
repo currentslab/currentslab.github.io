@@ -3,11 +3,86 @@ layout: default
 title: 404 - Page not found
 permalink: /404.html
 ---
-
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
-
-  <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+<link href="/css/404.css" rel="stylesheet"/>
+<div class="error-container">
+  <div class="error-page">
+      <div>
+        <h1 data-h1="404">404</h1>
+        <p data-p="NOTFOUND">Not Found</p>
+      </div>
+    </div>
+    <a href="/">
+    <div id="particles-js"></div>
+  </a>
 </div>
+
+<script>
+  particlesJS("particles-js", {
+      "particles": {
+        "number": {
+          "value": 5,
+          "density": {
+            "enable": true,
+            "value_area": 500
+          }
+        },
+        "color": {
+          "value": "#fcfcfc"
+        },
+        "shape": {
+          "type": "circle",
+        },
+        "opacity": {
+          "value": 0.5,
+          "random": true,
+          "anim": {
+            "enable": false,
+            "speed": 1,
+            "opacity_min": 0.2,
+            "sync": false
+          }
+        },
+        "size": {
+          "value": 140,
+          "random": false,
+          "anim": {
+            "enable": true,
+            "speed": 10,
+            "size_min": 40,
+            "sync": false
+          }
+        },
+        "line_linked": {
+          "enable": false,
+        },
+        "move": {
+          "enable": true,
+          "speed": 8,
+          "direction": "none",
+          "random": false,
+          "straight": false,
+          "out_mode": "out",
+          "bounce": false,
+          "attract": {
+            "enable": false,
+            "rotateX": 300,
+            "rotateY": 600
+          }
+        }
+      },
+        "interactivity": {
+        "detect_on": "canvas",
+        "events": {
+          "onhover": {
+            "enable": false
+          },
+          "onclick": {
+            "enable": false
+          },
+          "resize": true
+        }
+      },
+      "retina_detect": true
+    });
+</script>
