@@ -3,13 +3,13 @@ layout: post
 title: Benchmark on Python Microframeworks 
 date: '2019-03-27 01:00'
 excerpt: >-
-  We have recently increase the free quota of 20 per day to 600 for our service.
+  In the complex world of web development, as the popularity of frontend framework such as React and Vue increase, Python is left to exist to be the language of a backend framework such as Flask and Django. So what are the key point developers should consider when choosing their next project’s backend framework?
 comments: false
 cover_image: https://raw.githubusercontent.com/theblackcat102/theblackcat102.github.io/master/images/jonathan-SwVkmowt7qA-unsplash.jpg
 ---
 
 
-In the complex world of web development, as the popularity of frontend framework such as React and Vue increase, Python is left to exist to be the language of a backend framework such as Flask and Django.  Django is a fullstack web framework with built in ORM, user management, template renderer and tons of plug and use plugins. While Flask, Sanic are micro framework which are designed to stay lean and fast. So what are the key point developers should consider when choosing their next project’s backend framework?
+In the complex world of web development, as the popularity of frontend framework such as React and Vue increase, Python is left to exist to be the language of a backend framework such as Flask and Django. Django is a fullstack web framework with built in ORM, user management, template renderer and tons of plug and use plugins. While Flask, Sanic are micro framework which are designed to stay lean and fast. So what are the key point developers should consider when choosing their next project’s backend framework?
 
 ### Why choose python as the language of backend framework:
 
