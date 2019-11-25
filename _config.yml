@@ -90,7 +90,7 @@ url-pretty: "currentsapi.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # google_analytics: "UA-96660715-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "UA-123014383-1"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -109,7 +109,7 @@ title-separator: "-"
 timezone: "Asia/Singapore"
 markdown: kramdown
 highlighter: rouge
-#permalink: /:year/:month/:day/:title/.html
+permalink: /en/blog/:year/:month/:day/:title/.html
 paginate: 100
 
 kramdown:
