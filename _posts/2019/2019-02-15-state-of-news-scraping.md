@@ -5,7 +5,7 @@ date: '2019-02-15 02:00'
 excerpt: >-
   In this blog post we will summarize the state of news scraping
 comments: false
-cover_image: [)
+cover_image: [Image source Unsplash](https://raw.githubusercontent.com/currentslab/currentslab.github.io/master/img/brian-mcgowan-YDDnFThf48g-unsplash.jpg)
 ---
 
 # What is news scraping
