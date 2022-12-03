@@ -5,7 +5,7 @@ date: '2019-03-27 01:00'
 excerpt: >-
   In the complex world of web development, as the popularity of frontend framework such as React and Vue increase, Python is left to exist to be the language of a backend framework such as Flask and Django. So what are the key point developers should consider when choosing their next project’s backend framework?
 comments: false
-cover_image: https://raw.githubusercontent.com/theblackcat102/theblackcat102.github.io/master/images/jonathan-SwVkmowt7qA-unsplash.jpg
+cover_image: https://raw.githubusercontent.com/currentslab/currentslab.github.io/master/img/jonathan-SwVkmowt7qA-unsplash.jpg
 ---
 
 
